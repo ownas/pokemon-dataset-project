@@ -1,4 +1,4 @@
-# Pokemon Case study ⚡️⚡️
+# Pokemon Case Study ⚡️⚡️
 
 This is an independent final project I've performed for BDI 475 - Introduction to Data Analytics Applications in Business.
 
